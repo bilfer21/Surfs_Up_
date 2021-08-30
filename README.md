@@ -6,13 +6,13 @@ The purpose of this analysis was to summarize observed temperature data for the 
 
 ## Results
 
-The results of the analysis showed that temperatures in June range from a minimum of 64.0 degrees F to a maximum of 85 degrees F, with an average temperature of 74.9 degrees F. The summary statistics are provided below:
+The results of the analysis showed that temperatures in June range from a minimum of 64.0 degrees F to a maximum of 85.0 degrees F, with a mean temperature of 74.9 degrees F. These statistics were gathered from a total of 1,700 observations. The summary statistics for June are provided below:
 
-!(https://github.com/bilfer21/Surfs_Up_/blob/main/june_temps_summary.PNG)
+![June Temperature Summary](https://github.com/bilfer21/Surfs_Up_/blob/main/june_temps_summary.PNG)
 
+Temperatures in December ranged from a minimum of 56.0 degrees F to a maximum of 83.0 degrees F, with a mean temperature of 71.0 degrees F. These statistics were gathered from a total of 1,517 observations. The summary statistics for December are provided below:
 
-
-
+![December Temperature Summary]()
 
 ## Summary
 
