@@ -7,7 +7,10 @@ The purpose of this analysis was to summarize observed temperature data for the 
 ## Results
 
 The results of the analysis showed that temperatures in June range from a minimum of 64.0 degrees F to a maximum of 85 degrees F, with an average temperature of 74.9 degrees F. The summary statistics are provided below:
+!June Temperature Summary (
 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 ## Summary
